@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hallo Every One 👋
+Hallo Everyone! 👋
+Saya Asep Abdul Mugni, seorang mahasiswa yang memiliki minat besar dalam pengembangan website.
+Saya suka belajar hal baru, berbagi ide, dan berkolaborasi untuk menciptakan sesuatu yang bermanfaat.
+Feel free to connect with me—saya selalu terbuka untuk diskusi menarik! 😊
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asepabdulmughni) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@asepam22) 
