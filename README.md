@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hallo Everyone! 👋<br>
 Saya Asep Abdul Mugni, seorang mahasiswa yang memiliki minat besar dalam pengembangan website.<br>
-Saya suka belajar hal baru, berbagi ide, dan berkolaborasi untuk menciptakan sesuatu yang bermanfaat.<br>
+Saya suka belajar hal baru, berbagi ide, dan berkolaborasi untuk menciptakan sesuatu yang bermanfaat.<br><br>
 Feel free to connect with me—saya selalu terbuka untuk diskusi menarik! 😊
 
 
