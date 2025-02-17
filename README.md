@@ -21,7 +21,19 @@ Feel free to connect with me—saya selalu terbuka untuk diskusi menarik! 😊
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=git,git,gitlab,github,figma,mysql,vercel&perline=3)](https://skillicons.dev)
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=pinia" height="40" alt="pinia logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+<img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+
+
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mugni1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
