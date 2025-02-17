@@ -22,16 +22,6 @@ Feel free to connect with me—saya selalu terbuka untuk diskusi menarik! 😊
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vue logo"  />
     <img src="https://skillicons.dev/icons?i=pinia" height="40" alt="pinia logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
