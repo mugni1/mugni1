@@ -10,6 +10,11 @@ Feel free to connect with me—saya selalu terbuka untuk diskusi menarik! 😊
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asepabdulmughni) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@asepam22) 
 
 # 💻 Tech Stack:
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 <div align="left">
    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
