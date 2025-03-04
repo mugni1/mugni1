@@ -23,6 +23,9 @@ Feel free to connect with me—saya selalu terbuka untuk diskusi menarik! 😊
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E6?style=for-the-badge&logo=axios&logoColor=white)
+![Cheerio](https://img.shields.io/badge/Cheerio-5B8E4A?style=for-the-badge&logo=cheerio&logoColor=white)
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
