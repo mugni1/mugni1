@@ -27,16 +27,13 @@ Feel free to connect with me—saya selalu terbuka untuk diskusi menarik! 😊
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img src="https://skillicons.dev/icons?i=pinia" height="40" alt="pinia logo"  />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="posgre logo"  />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 
